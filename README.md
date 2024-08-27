@@ -1,5 +1,5 @@
 ## 👋 Olá, pessoal!!
-## Eu sou o Renan e: 
+### Eu sou o Renan e: 
 
 - 🔭 Atualmente estou procurando por uma oportunidade em Desenvolvimento, QA ou Análise de Dados
 - 🌱 Estou Cursando Análise e Desenvolvimento de Sistemas
