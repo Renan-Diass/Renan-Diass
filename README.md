@@ -1,7 +1,7 @@
 ## 👋 Olá, pessoal!!
 ### Eu sou o Renan e: 
 
-- 🔭 Atualmente estou procurando por uma oportunidade em Desenvolvimento, QA ou Análise de Dados
+- 🔭 Estagiário de DevOps na SoftExpert Softwares!
 - 🌱 Estou Cursando Análise e Desenvolvimento de Sistemas
 - 📫 E o meu Email para contato é esse: renanalbino.dias@gmail.com
 
