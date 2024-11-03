@@ -1,7 +1,7 @@
 ## 👋 Olá, pessoal!!
 ### Eu sou o Renan e: 
 
-- 🔭 Estagiário de DevOps na SoftExpert Softwares!
+- 🔭 Sou estagiário de DevOps na SoftExpert Softwares!
 - 🌱 Estou Cursando Análise e Desenvolvimento de Sistemas
 - 📫 E o meu Email para contato é esse: renanalbino.dias@gmail.com
 
